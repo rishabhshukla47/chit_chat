@@ -4,7 +4,7 @@ A group chat application
 
 ## Description
 
-This application provides group chat functionality. The database behind the app is firebase(a cloud database). Anyone with the application has access to the group chat. Therefore, recommended user flow invloves connecting to a private firebase database and distributing the app locally.
+This application provides group chat functionality. The database behind the app is firebase (a cloud database). Anyone with the application has access to the group chat. Therefore, recommended user flow invloves connecting to a private firebase database and distributing the app locally.
 
 ## Use case
 
