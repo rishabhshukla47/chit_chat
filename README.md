@@ -6,6 +6,10 @@ A group chat application
 
 This application provides group chat functionality. The database behind the app is firebase (a cloud database). Anyone with the application has access to the group chat. Therefore, recommended user flow invloves connecting to a private firebase database and distributing the app locally.
 
+## Showcase
+
+<img src="https://user-images.githubusercontent.com/83495424/129266724-c6e61cdc-5518-4b95-8310-8fad4eae1cfc.png" alt="alt text" width="230" height="400"><img src="https://user-images.githubusercontent.com/83495424/129267219-5b9ea432-0f85-4aa9-8b0c-c2bd90a82df6.png" alt="alt text" width="230" height="400"><img src="https://user-images.githubusercontent.com/83495424/129267124-d5bc28bf-181c-4b6b-81f2-bde3f160f861.png" alt="alt text" width="230" height="400">
+
 ## Use case
 
 Private group chat for family members.
@@ -38,10 +42,9 @@ Private group chat for family members.
 * Run the applicaion using run button or terminal command: "flutter run".
 
 ## Usage
-
-
-
-## Showcase
+* Open the application
+* Login/Register with email and password.
+* Access group chat.
 
 ## Credits
 Inspired by Flash_chat app ( creator: [The App Brewery](https://www.appbrewery.co/))
